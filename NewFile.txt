@@ -6,3 +6,4 @@ Conflict merge demo 2
 Conflict resolved
 Revert 5
 Revert 6
+
