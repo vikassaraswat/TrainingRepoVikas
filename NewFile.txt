@@ -7,3 +7,4 @@ Conflict resolved
 Revert 6
 Stash 1
 GitHub training remote
+Conflict merge local
